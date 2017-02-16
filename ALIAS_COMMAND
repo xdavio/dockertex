@@ -1,0 +1,1 @@
+echo "alias build_tex=~/src/dockertex/build_tex.sh" >> ~/.zshrc
